@@ -4,9 +4,9 @@
     $LipaNaMpesaPasskey = "YOUR_PASSKEY";
     $TransactionType = "CustomerPayBillOnline";
     $Amount = "1000"; // the amount of the transaction
-    $PartyA = "254712345678"; // the phone number of the customer
+    $PartyA = "254702524433"; // the phone number of the customer
     $PartyB = "123456"; // your shortcode
-    $PhoneNumber = "254712345678"; // the phone number of the customer
+    $PhoneNumber = "254702524433"; // the phone number of the customer
     $CallBackURL = "https://yourwebsite.com/callback"; // the URL to which M-PESA will send a confirmation of the transaction
     $AccountReference = "YOUR_REFERENCE"; // a reference for the transaction
     $TransactionDesc = "Testing STK Push"; // a description of the transaction
