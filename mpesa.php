@@ -52,5 +52,5 @@
         echo "Checkout Request ID: " . $result->CheckoutRequestID . "<br>";
         echo "Response Code: " . $result->ResponseCode . "<br>";
         echo "Response Description: " . $result->ResponseDescription . "<br>";
-    } else {
+    } else 
        
